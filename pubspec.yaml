@@ -37,7 +37,7 @@ dependencies:
   flutter_map: 5.0.0 
   flutter_map_animations: 0.4.1 
   flutter_markdown: 0.7.5
-  flutter_secure_storage: 9.2.3
+  flutter_secure_storage: 9.2.4
   flutter_svg: 2.0.17
   focus_detector: 2.0.1
   geolocator: 13.0.2
